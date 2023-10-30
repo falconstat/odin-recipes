@@ -5,5 +5,5 @@
 - 🔭 &nbsp; I’m currently learning Ruby on Rails for Development!
 - 🎓 &nbsp; CompSci
 - 💼 &nbsp; Full-Stack Developer.
-- 🪄 &nbsp; Wizard of full-Stack and AI.
+- 🪄 &nbsp; Wizard of computers
 - ✍️ &nbsp; Respectively diversifying my portfolio to enhance my outlook in development.
